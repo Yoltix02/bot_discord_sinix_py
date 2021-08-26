@@ -455,6 +455,6 @@ async def help(ctx):
             if current !=  previous_page:
                 await message.edit(embed=bot.help_pages[current])
 
-bot.run("ODExMjUyNzM0NjA2NTczNTY4.YCvf_A.C94dQywu5_vb1dtR45vOUmefMKs")
+bot.run("TOKEN")
 
 
